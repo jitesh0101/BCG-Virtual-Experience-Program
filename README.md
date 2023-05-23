@@ -9,7 +9,6 @@ BCG-Virtual-Experience-Program
             3: Feature Engineering & Modelling
             4: Findings & Recommendations
 
-![one day bcg logo green ](https://user-images.githubusercontent.com/27211670/183700820-2248f4ee-655f-40dc-8628-8495072a3979.png)
 
 ## Task 1 - Business Understanding & Hypothesis Framing
 Understanding the business context and problem statement.
